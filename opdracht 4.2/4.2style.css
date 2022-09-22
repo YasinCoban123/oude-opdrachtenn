@@ -1,0 +1,74 @@
+h1{
+    color: blue;
+    }
+    h1{
+    font-size: 24px;
+    }
+    h1{
+    font-style: oblique;
+    }
+    h1{
+    font-weight: bold;
+    }
+    h2{
+    font-size: 20px;
+    }
+    h2{
+    color: #0000ff;
+    }
+    h2{
+    font-size: bold;
+    }
+    h3{
+    font-size: 16px;
+    }
+    h3{
+    color: teal;
+    }
+    h3{
+    font-size: bold;
+    }
+    p{
+    color: #4d4d4d;
+    }
+    p.a{
+    font-weight: bold;
+    }
+    p.a{
+       color: crimson;
+    }
+        
+    a{
+    color: #8a2be2;
+    }
+    a{
+        text-decoration: none;
+    }
+    img{
+    width: 700px;px;
+    }
+    
+    body{
+    background-image: url("img/joystick.jpg");
+    }
+    body {
+        background-repeat: no-repeat;
+        }
+        body{
+            background: url(img/joystick.jpg);
+            background-size: 1300px 300px;
+            background-repeat: no-repeat;
+          }
+          img {
+            border-style: groove;
+            }
+            img {
+                border-width: 50px;
+            }
+            p {
+                border-style: solid;
+                }
+                p.a{
+     
+                    border-style: none;
+                }
