@@ -50,11 +50,9 @@ h1{
     
     body{
     background-image: url("img/joystick.jpg");
-    }
-    body {
+   
         background-repeat: no-repeat;
-        }
-        body{
+     
             background: url(img/joystick.jpg);
             background-size: 1300px 300px;
             background-repeat: no-repeat;
